@@ -33,8 +33,15 @@ public class hhhh {
 		HashMap<Integer, String>hhhh=new HashMap<>();
 		hhhh.put(1, "jackson");
 		hhhh.put(1, "xuxuxux");
+		hhhh.put(3, "aaaa");
 		Iterator<Entry<Integer, String>>huhu=hhhh.entrySet().iterator();
-		//22222222222222222
-        //111111111111111
+		while(huhu.hasNext()) {
+			Entry<Integer, String> hihi = huhu.next();
+			Integer key = hihi.getKey();
+			//System.out.println(key);
+			String value=hihi.getValue();
+			//System.out.println(value);
+		}
+		
 	}
 }
