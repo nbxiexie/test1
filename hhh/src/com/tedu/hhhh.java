@@ -42,6 +42,7 @@ public class hhhh {
 			String value=hihi.getValue();
 			//System.out.println(value);
 		}
+		//22222222
 		for (int i = 0; i < args.length; i++) {
 			
 		}
