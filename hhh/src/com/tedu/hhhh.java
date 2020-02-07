@@ -35,6 +35,6 @@ public class hhhh {
 		hhhh.put(1, "xuxuxux");
 		Iterator<Entry<Integer, String>>huhu=hhhh.entrySet().iterator();
 		//22222222222222222
-		
+        //111111111111111
 	}
 }
